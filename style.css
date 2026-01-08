@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(#ff9a9e,#fad0c4);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family:sans-serif;
+    margin:0;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    border-radius:20px;
+    text-align:center;
+    width:300px;
+    box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+
+h1{
+    color:#ff4d6d;
+}
+
+p{
+    color:#444;
+    line-height:1.6;
+}
+
+span{
+    color:#ff4d6d;
+    font-style:italic;
+}
